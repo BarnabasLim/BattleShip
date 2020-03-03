@@ -12,3 +12,6 @@ number_of_sub=1
   
 For further instructions on how to play the game and use the interface,   
 please look at the powerpoint "Instruction Manual.ppt"  
+
+Areas for improvement:
+1. Organise Error Strings
