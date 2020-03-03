@@ -1,4 +1,4 @@
-This project is done by Barnabus Lim, Lim Shu Fang and Loong Pin Sheng 
+This project is done by Barnabas Lim, Lim Shu Fang and Loong Pin Sheng 
 in fulfilment of CZ1003 Mini-Project Sem 2 AY18/19.
 
 Run MainMenuUI.py to run the main program. 
