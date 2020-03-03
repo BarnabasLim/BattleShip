@@ -17,7 +17,7 @@ import CreateAccountCodeUI
 import LoginAccountCodeUI
 import gameMainUI
 
-login_img = pygame.image.load('battleship.png')
+login_img = pygame.image.load('Images/battleship.png')
 
 pygame.init()
 #========================================================================

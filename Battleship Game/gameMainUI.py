@@ -26,13 +26,13 @@ number_of_carrier=1
 number_of_sub=1
 
 #Images
-background = pygame.image.load("board.jpg")
-win_img = pygame.image.load("win_game.png")
-lose_img = pygame.image.load("lose_game.png")
-carrier_img = pygame.image.load('carrier.png').convert_alpha()
-submarine_img = pygame.image.load('submarine.png').convert_alpha()
-cross_img = pygame.image.load('cross.png').convert_alpha()
-bluecross_img = pygame.image.load('blueCross.png').convert_alpha()
+background = pygame.image.load("Images/board.jpg")
+win_img = pygame.image.load("Images/win_game.png")
+lose_img = pygame.image.load("Images/lose_game.png")
+carrier_img = pygame.image.load('Images/carrier.png').convert_alpha()
+submarine_img = pygame.image.load('Images/submarine.png').convert_alpha()
+cross_img = pygame.image.load('Images/cross.png').convert_alpha()
+bluecross_img = pygame.image.load('Images/blueCross.png').convert_alpha()
 rect = carrier_img.get_rect(topleft=(0, 40))
 
 
